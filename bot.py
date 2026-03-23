@@ -120,4 +120,4 @@ async def on_command_error(ctx, error):
         print(f"Error: {error}")
 
 # ====================== RUN THE BOT ======================
-bot.run("MTQ4NTU4OTcxNzMxMDM3MzkxOA.GYAvJW.8LyuRwcZPIV55PTg_xVmyG2BA34oEJmnN0DZbU")   # ← NEVER SHARE THIS
+bot.run("MTQ4NTU4OTcxNzMxMDM3MzkxOA.G3y3tv.zkuPVid8whG83545hdQdFrh6i82EbvAnmkvqso")   # ← NEVER SHARE THIS
